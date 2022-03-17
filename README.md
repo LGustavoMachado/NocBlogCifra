@@ -9,6 +9,7 @@
   <li>Junit</li>
   <li>MySQL</li>
   <li>Maven</li>
+  <li>Postgresql</li>
   <li>JPA Hibernate</li>
 </ul>
 
